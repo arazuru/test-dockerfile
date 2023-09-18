@@ -1,2 +1,2 @@
-FROM almaelinux/httpd-custom:latest
+FROM almalinux:latest
 CMD /usr/sbin/init
